@@ -1,6 +1,12 @@
+
 #include <SDL/SDL.h>
 #include <SDL/SDL_mixer.h>
 #include <SDL/SDL_image.h>
+
+/** 
+* @struct enigme 
+* @brief struct for enigme 
+*/ 
 
 typedef struct 
 {
